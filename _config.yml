@@ -1,6 +1,6 @@
 # site settings
 title: Mathematical Neuroanatomy Lab
-subtitle: P.I.s are Drs. J.T. Ratnanather and Michael I. Miller
+subtitle:
 email: jratnan1@jh.edu
 description: A website for the public to acquaint itself with our lab.
 baseurl: "" # the subpath of your site, e.g. /blog
