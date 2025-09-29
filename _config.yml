@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Mathematical Neuroanatomy Lab
+subtitle: P.I.s: Drs. J.T. Ratnanather and Michael I. Miller
+email: jratnan1@jh.edu
+description: A website for the public to acquaint itself with our lab.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Casey Weiner
+street_address: 3400 N. Charles Street, Clark Hall
+city: Baltimore
+state: MD
+zip_code: 21218
 country: United States of America
-phone: (716) 555-5555
+phone: (410) 516-9776
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +22,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/mathneuroanat
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn:
+  Twitter:
   Facebook:
-  Slack:
+  Slack: https://mimratnanatherlab.slack.com/
 
 # build settings
 markdown: kramdown
