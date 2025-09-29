@@ -1,12 +1,12 @@
 # site settings
 title: Mathematical Neuroanatomy Lab
-subtitle: P.I.s: Drs. J.T. Ratnanather and Michael I. Miller
+subtitle: P.I.s are Drs. J.T. Ratnanather and Michael I. Miller
 email: jratnan1@jh.edu
 description: A website for the public to acquaint itself with our lab.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Casey Weiner
-street_address: 3400 N. Charles Street, Clark Hall
+street_address: 3400 N. Charles Street Clark Hall
 city: Baltimore
 state: MD
 zip_code: 21218
