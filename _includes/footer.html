@@ -78,8 +78,10 @@
 				{% endfor %}
 			</ul>
 			<div class="4u">
-				<span class="image fit" style="display: inline-block;"><img src="{% link assets/images/JHU.logo_horizontal.white.svg %}" alt="" /></span>
-				<span class="image fit" style="display: inline-block;"><img src="{% link assets/images/SOM.logos.rgb_horizontal.white.svg %}" alt="" /></span>
+				<div style="display: flex; gap: 1rem; align-items: center;">
+					<span class="image fit"><img src="{% link assets/images/JHU.logo_horizontal.white.svg %}" alt="" /></span>
+					<span class="image fit"><img src="{% link assets/images/SOM.logos.rgb_horizontal.white.svg %}" alt="" /></span>
+				</div>
 			</div>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
